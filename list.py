@@ -7,4 +7,4 @@ for i in a :
     if i < choice :
         new_list.append(i)
 
-print(new_list)
+print (new_list)
