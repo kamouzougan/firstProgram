@@ -10,7 +10,7 @@ for i in listRange :
  if  num % i == 0 :
   divisorList.append(i)
   print(listRange)
-print(divisorList)
+print(divisorList  )
 
 
 
